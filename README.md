@@ -11,4 +11,5 @@ All 3D files and graphics are made in FreeCAD, Blender, Inkscape and Krita.
 
   https://github.com/blender/blender
 
+---
 Learn more about The STEMFIE Project at https://stemfie.org
