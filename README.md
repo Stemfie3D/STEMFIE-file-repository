@@ -5,4 +5,9 @@ STEMFIE is an open-sourced educational construction-set toy you can download and
 
 The shape and orientation of every STEMFIE file are optimized for 3D printing on a filament-based 3D printer. 
 
+All 3D files and graphics are made in FreeCAD, Blender, Inkscape and Krita.
+  
+  https://github.com/FreeCAD/FreeCAD
+  https://github.com/blender/blender
+
 Learn more about The STEMFIE Project at https://stemfie.org
