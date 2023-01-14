@@ -2,7 +2,6 @@
 ### The official file repository of the STEMFIE construction-set toy
 
 ![](https://stemfie.org/files/images/projects/sps-000003/SPS-000003_Desktop_Catapult_Boxshot_Title_stemfie.org.jpg)
-.............
 
 **STEMFIE** is an open-sourced educational construction-set toy you can download and make using an affordable off-the-shelf 3D printer. 
 
