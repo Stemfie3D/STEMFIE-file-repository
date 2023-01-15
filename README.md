@@ -28,5 +28,4 @@ All 3D files and graphics are made in [FreeCAD](https://github.com/FreeCAD/FreeC
 
 
 ### Contact Informaiton
-
-**Paulo Kiefe** (paulo@stemfie.org)
+* **Paulo Kiefe** (paulo@stemfie.org)
