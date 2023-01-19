@@ -16,7 +16,7 @@ This file repository contains mainly the three following file types.
 
 The shape and orientation of every STEMFIE file are optimized for 3D printing without the need for support structures on a filament-based 3D printer.
 
-All 3D files and graphics are made in [FreeCAD](https://github.com/FreeCAD/FreeCAD), [Blender](https://github.com/blender/blender), [Inkscape](https://inkscape.org), and [Krita](https://
+All 3D files and graphics are made in [FreeCAD](https://github.com/FreeCAD/FreeCAD), [Blender](https://github.com/blender/blender), [Inkscape](https://inkscape.org), and [Krita](https://krita.org).
 
 ### The STEMFIE Project's Online Places
 
@@ -28,5 +28,4 @@ All 3D files and graphics are made in [FreeCAD](https://github.com/FreeCAD/FreeC
 
 
 ### Contact Informaiton
-
-**Paulo Kiefe** (paulo@stemfie.org)
+* **Paulo Kiefe** (paulo@stemfie.org)
